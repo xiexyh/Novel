@@ -1,0 +1,11 @@
+创建序列
+
+create sequence seq_identify_id start with 10 increment by 1 maxvalue  999999999 noCycle;
+
+create sequence seq_users_id start with 30 increment by 1 maxvalue  999999999 noCycle;
+
+create sequence seq_classification_id start with 27 increment by 1 maxvalue  999999999 noCycle;
+
+create sequence seq_novel_id start with 350 increment by 1 maxvalue  999999999 noCycle;
+
+create sequence seq_chapter_id start with 41030 increment by 1 maxvalue  999999999 noCycle;
